@@ -1,0 +1,74 @@
+
+.App {
+  text-align: center;
+  margin: 5%;
+  background-color: lightblue;
+  padding: 40px;
+}
+.title{
+  margin: 50px;
+}
+.title h1{
+  font-size: 45px;
+  font-weight: bold;
+}
+.name{
+  margin-bottom: 50px;
+}
+.name input{
+  font-size: 15px;
+  width: 70%;
+  height: 40px;
+  background-color: lightgrey;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+.name label{
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 20px;
+}
+.mail{
+  margin: 50px 0px;
+}
+.mail input{
+  font-size: 15px;
+  width: 40%;
+  height: 40px;
+  background-color: lightgrey;
+  margin-left: 10px;
+  border-radius: 10px;
+  margin-right: 25px;
+}
+.mail label{
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.date{
+  margin: 50px 0px;
+}
+.date input{
+  font-size: 15px;
+  width: 40%;
+  height: 40px;
+  background-color: lightgrey;
+  margin-left: 10px;
+  border-radius: 10px;
+  margin-right: 25px;
+}
+.date label{
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 20px;
+}
+button{
+  width: 20%;
+  border-radius: 40px;
+  border: 1px solid black;
+  font-weight: bold;
+  height: 40px;
+  background-color: lightgrey;
+  font-size: 20px;
+}
